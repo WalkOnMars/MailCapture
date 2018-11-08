@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<All_Config>
+  <Config id="names">
+    <item>沙璎,shaying@lx-rs.com</item>
+    <item>施迪,shidi@lx-rs.com</item>
+    <item>王秀秀,wangxiuxiu@lx-rs.com</item>
+    <item>崔浩,cuihao@lx-rs.com</item>
+    <item>朱嘉瑶,zhujiayao@lx-rs.com</item>
+    <item>汪姿妤,wangziyu@lx-rs.com</item>
+    <item>卢枫青,lufengqing@lx-rs.com</item>
+    <item>曹佳雯,caojiawen@lx-rs.com</item>
+    <item>杨晨露,yangchenlu@lx-rs.com</item>
+    <item>厉霜,lishuang@lx-rs.com</item>
+    <item>张琦,zhangqi@lx-rs.com</item>
+    <item>居昊,juhao@lx-rs.com</item>
+    <item>何畅,hechang@lx-rs.com</item>
+    <item>陈佳欢,chenjiahuan@lx-rs.com</item>
+    <item>潘佳乐,panjiale@lx-rs.com</item>
+    <item>孙思邈,sunsimiao@lx-rs.com</item>
+    <item>李亮霞,liliangxia@lx-rs.com</item>
+    <item>李悦,liyue@lx-rs.com</item>
+    <item>吴思琪,wusiqi@lx-rs.com</item>
+  </Config>
+  <Config id="report">
+    <size>19,15</size>
+  </Config>
+  <Config id="content">
+    <spliter>张老师;张总;领导;婧婧;婧总;Dear婧婧;潘老师;胡老师;Dear;静总</spliter>
+  </Config>
+</All_Config>

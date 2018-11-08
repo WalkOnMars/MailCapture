@@ -1,0 +1,14 @@
+config.xml文档内容
+<?xml version="1.0" encoding="utf-8"?>
+<All_Config>
+  <Config id="names">
+    <item>3,2</item>
+    <item>1,2</item>
+  </Config>
+  <Config id="report">
+    <size>40,25</size>
+  </Config>
+  <Config id="content">
+    <spliter>张老师;张总;领导;婧婧;婧总;Dear婧婧;潘老师;胡老师;Dear</spliter>
+  </Config>
+</All_Config>
