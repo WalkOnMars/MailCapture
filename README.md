@@ -1,4 +1,4 @@
 # MailCapture
 
-this tool allow you auto-recieve email and collect your email by month into Excel file.
+this tool allow you auto-recieve email and collect your email into Excel file by month.
 
